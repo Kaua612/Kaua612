@@ -9,4 +9,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Estatisticas
+## Estatisticas
+
+![Kaua612 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaua612&show_icons=true&theme=radical)
